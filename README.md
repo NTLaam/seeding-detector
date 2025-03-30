@@ -53,14 +53,11 @@ Trong thời đại số, nội dung trên mạng xã hội ngày càng đa dạ
 ## 📅 Planning (Kế Hoạch Thực Hiện)
 | Giai Đoạn  | Công Việc Chính                     | Thời Gian (Tuần) | Kết Quả Kỳ Vọng |
 |------------|------------------------------------|-----------------|----------------|
-| **1**      | Tìm hiểu đề tài nghiên cứu         | 2 tuần          | Báo cáo tổng quan |
-| **2**      | Xây dựng kế hoạch nghiên cứu      | 2 tuần          | Đề cương chi tiết |
-| **3**      | Khảo sát và thu thập dữ liệu      | 2 tuần          | Bộ dữ liệu chất lượng |
-| **4**      | Tiền xử lý dữ liệu                | 1 tuần          | Dữ liệu sạch, sẵn sàng |
-| **5**      | Xây dựng mô hình phân loại        | 2 tuần          | Mô hình baseline hoạt động |
-| **6**      | Tinh chỉnh & tối ưu mô hình       | 2 tuần          | Mô hình chính xác cao hơn |
-| **7**      | Đánh giá & phân tích kết quả      | 2 tuần          | Báo cáo đánh giá chi tiết |
-| **8**      | Viết báo cáo & tổng kết dự án     | 2 tuần          | Báo cáo hoàn chỉnh |
+| **1**      | Nghiên cứu lí thuyết và tổng quan đề tài nghiên cứu  | 2 tuần  | Đề cương chi tiết |
+| **2**      | Thu thập và tiền xử lý dữ liệu                       | 2 tuần  | Bộ dữ liệu chất lượng. Dữ liệu sạch, sẵn sàng |
+| **3**      | Xây dựng và huấn luyện mô hình phân loại             | 2 tuần  | Mô hình chính xác cao |
+| **4**      | Đánh giá & cải tiến mô hình                          | 2 tuần  | Nâng cao hiệu suất |
+| **5**      | Viết báo cáo & tổng kết dự án                        | 2 tuần  | Báo cáo hoàn chỉnh |
 
 ---
 
