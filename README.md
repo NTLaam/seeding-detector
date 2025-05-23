@@ -25,8 +25,8 @@ Trong thời đại số, nội dung trên mạng xã hội ngày càng đa dạ
 - Tiền xử lý dữ liệu: làm sạch văn bản, loại bỏ stopwords, tách từ tiếng Việt.
 
 ### 📌 2. Mô Hình Học Máy
-- Thử nghiệm các mô hình truyền thống: **Naïve Bayes, SVM, Random Forest**.
-- Ứng dụng **Deep Learning (LSTM, Transformer)** để cải thiện độ chính xác.
+- Thử nghiệm các mô hình truyền thống: **Naïve Bayes, SVM, Logistic**.
+- Ứng dụng **Deep Learning (CNN, BiLSTM)** để cải thiện độ chính xác.
 
 ### 📌 3. Đánh Giá
 - Sử dụng các chỉ số: **Accuracy, F1-score, Precision, Recall**.
