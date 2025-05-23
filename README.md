@@ -1,6 +1,4 @@
 # seeding-detector
-Show quá trình làm việc
-Project Proposal: Nhận Dạng Nội Dung Seeding
 
 ## 📌 Giới Thiệu
 Trong thời đại số, nội dung trên mạng xã hội ngày càng đa dạng và phức tạp. Một trong những chiến lược phổ biến trong marketing là **seeding content** – nội dung được tạo ra nhằm định hướng dư luận hoặc quảng bá sản phẩm/dịch vụ. Việc phát hiện và phân loại nội dung seeding là một vấn đề quan trọng trong **Xử Lý Ngôn Ngữ Tự Nhiên (NLP)** và **An Ninh Thông Tin**.
